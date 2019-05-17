@@ -29,7 +29,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="tasks" class="nav-link">Home</a>
+        <a href="ap" class="nav-link">Home</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
         <a href="#" class="nav-link">Ajuda</a>
@@ -116,7 +116,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
               <!-- menu link título-->
               <ul class="nav nav-treeview">
               <li class="nav-item">
-                  <a href="#" class="nav-link">
+                  <a href="video1" class="nav-link">
                     <i class="fa fa-file-text nav-icon"></i>
                     <p>Criatividade</p><br>
                     <p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp- A força da criatividade</p>
